@@ -1,0 +1,11 @@
+.numberStyle {
+    list-style: none;
+    margin: 5px;
+    text-align: center;
+}
+.sakriOdgovor{
+  display:none;
+}
+.jumbotron{
+  text-align: center;
+}
